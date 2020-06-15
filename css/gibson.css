@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #262E3B;
+    color: #CBC7C7;
+}
+.gibson{
+    max-height: 980px;
+    padding-bottom: 100px;
+}
+.color_red{
+    color: #dc0300;
+}
+.header_logo a {
+    color: #FFFFFF;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.header_logo{
+    padding-top: 36px;
+    margin-bottom: 36px;
+}
+.teh{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.price{
+    font-size: 25px;
+}
+table{
+    margin-top: 30px;
+    font-size: 20px;
+}
+img{
+  margin-left: 55px;
+}
+h1{
+    margin-left: 45px;
+    margin-top: 35px;
+}
